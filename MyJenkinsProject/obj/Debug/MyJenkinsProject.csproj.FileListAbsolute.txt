@@ -78,3 +78,12 @@ C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\obj\Debug\MyJenkinsProj
 C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\obj\Debug\MyJenkinsProject.csproj.CopyComplete
 C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\obj\Debug\MyJenkinsProject.dll
 C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\obj\Debug\MyJenkinsProject.pdb
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\NUnit3.TestAdapter.dll
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\NUnit3.TestAdapter.pdb
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\nunit.engine.dll
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\nunit.engine.api.dll
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\nunit.framework.dll
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\WebDriver.dll
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\nunit.framework.pdb
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\nunit.framework.xml
+C:\Users\Kevin\Desktop\MyJenkinsProject\MyJenkinsProject\bin\WebDriver.xml
